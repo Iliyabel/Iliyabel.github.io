@@ -3,3 +3,8 @@ body {
     background: pink;
     text-align: center;
 }
+
+h1 {
+    text-align: left;
+    font-family: monospace;
+}
