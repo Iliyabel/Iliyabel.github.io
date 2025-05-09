@@ -1,4 +1,4 @@
-body {
+.main {
     margin-left: 300;
     margin-right: 300;
     margin-top: 50;
@@ -39,4 +39,9 @@ h2 {
 
 .largePhoto {
     margin-bottom: 200px;
+}
+
+.canvas {
+    /* margin-left: 300px; */
+    display: block;
 }
